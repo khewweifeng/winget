@@ -1,0 +1,1 @@
+clip < "WORD PROCESSING.txt"
