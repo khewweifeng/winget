@@ -1,0 +1,1 @@
+clip < "WG NO GAME.txt"
