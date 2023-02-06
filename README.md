@@ -1,4 +1,4 @@
-# winget
+# Winget
 https://keivan.io/the-day-appget-died
 
 1. Run powershell as administrative
