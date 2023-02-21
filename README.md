@@ -6,7 +6,7 @@ https://keivan.io/the-day-appget-died
 2. Double click **.bat** to copy winget commands
 3. Paste into powershell and hit enter key
 
-# Build your own 
+# Build your own list
 1. https://winget.run/
 2. https://winstall.app/
 
