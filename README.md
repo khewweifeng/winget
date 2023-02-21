@@ -11,3 +11,6 @@ https://keivan.io/the-day-appget-died
 2. https://winstall.app/
 
 - Make your own list of collection from the websites above
+
+# Report winget issue
+- https://github.com/microsoft/winget-pkgs/issues
