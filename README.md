@@ -14,3 +14,4 @@ https://keivan.io/the-day-appget-died
 
 # Report winget issue
 - https://github.com/microsoft/winget-pkgs/issues
+- https://github.com/microsoft/winget-cli/issues
