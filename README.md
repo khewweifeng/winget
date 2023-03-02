@@ -12,6 +12,6 @@ https://keivan.io/the-day-appget-died
 
 - Make your own list of collection from the websites above
 
-# Report winget issue
+# Report winget issues
 - https://github.com/microsoft/winget-pkgs/issues
 - https://github.com/microsoft/winget-cli/issues
