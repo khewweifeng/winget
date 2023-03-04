@@ -1,1 +1,1 @@
-clip < "WORD OFFICE.txt"
+clip < "OFFICE.txt"
