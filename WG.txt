@@ -3,6 +3,7 @@ winget remove 9P6RC76MSMMJ;winget remove 9NBLGGH5R558;winget remove XPFFZHVGQWWL
 start /min https://www.mumuglobal.com/games/installation/
 start /min https://www.grc.com/files/incontrol.exe
 start /min https://dsadata.intel.com/installer
+start https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html
 
 wuauclt.exe /updatenow
 
