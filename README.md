@@ -5,7 +5,7 @@ https://github.com/microsoft/winget-cli/commit/ed545f996acd36e9b4b277949abc7f62e
 
 # How to use
 1. Run powershell as admin
-2. Double click **.bat** to copy winget commands
+2. Copy winget commands
 3. Paste into powershell and hit enter key
 
 # Build your own list
