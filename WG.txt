@@ -6,6 +6,7 @@ start /min https://dsadata.intel.com/installer
 start https://apps.qoo-app.com/en/dl?r=https://www.qoo-app.com/en
 start https://www.android.com/better-together/nearby-share-app/
 start https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html
+timeout /t 30 /nobreak
 start https://jcc.qq.com/zlkdatasys/mct/d/play.shtml?device=android
 
 
