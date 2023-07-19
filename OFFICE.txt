@@ -1,8 +1,8 @@
 winget remove 9P6RC76MSMMJ;winget remove 9NBLGGH5R558;winget remove XPFFZHVGQWWLHB;winget remove 9NCBCSZSJRSB;winget remove 9WZDNCRFJ3P2;winget remove XPFFZHVGQWWLHB;winget remove 9WZDNCRFHVJL;winget remove 9P1J8S7CCWWT;winget remove cortana;
 
-start /min https://www.ldplayer.net/versions
-start /min https://www.grc.com/files/incontrol.exe
-start /min https://dsadata.intel.com/installer
+start https://www.ldplayer.net/versions
+start https://www.grc.com/files/incontrol.exe
+start https://dsadata.intel.com/installer
 start https://www.android.com/better-together/nearby-share-app/
 start https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html
 
