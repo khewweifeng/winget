@@ -1,4 +1,5 @@
 @echo off
 winget update
-winget update --all | clip
+@echo winget update --all | clip
 cmd /k
+
