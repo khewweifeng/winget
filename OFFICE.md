@@ -4,15 +4,7 @@ winget remove 9P6RC76MSMMJ && winget remove 9NBLGGH5R558 && winget remove XPFFZH
 ```
 start "https://www.mumuplayer.com/update/"
 ```
-## [For win 7](https://inventivehq.com/windows-update-commands-powershell-usoclient-wuauclt/#:~:text=The%20Windows%20Update,update-related%20tasks.)
-```
-Wuauclt /dectectnow /updatenow
-```
 
-## [For win 10 and above](https://www.diskpart.com/tips-tricks/windows-update-command-line-1503.html)
-```
-UsoClient ScanInstallWait
-```
 
 <br>
 
