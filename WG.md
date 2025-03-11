@@ -4,7 +4,6 @@ winget remove 9P6RC76MSMMJ && winget remove 9NBLGGH5R558 && winget remove XPFFZH
 ```
 start https://www.mumuplayer.com/update/
 start https://www.grc.com/files/incontrol.exe
-start https://dsadata.intel.com/installer
 start https://apps.qoo-app.com/en/dl?r=https://www.qoo-app.com/en
 timeout /t 10 /nobreak
 start https://jcc.qq.com/zlkdatasys/mct/d/play.shtml?device=android
