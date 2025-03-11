@@ -2,11 +2,10 @@
 winget remove 9P6RC76MSMMJ && winget remove 9NBLGGH5R558 && winget remove XPFFZHVGQWWLHB && winget remove 9NCBCSZSJRSB && winget remove 9WZDNCRFJ3P2 && winget remove XPFFZHVGQWWLHB && winget remove 9WZDNCRFHVJL && winget remove 9P1J8S7CCWWT && winget remove cortana;
 ```
 ```
-start https://www.ldplayer.net/versions
+start https://www.mumuplayer.com/update/
 start https://www.grc.com/files/incontrol.exe
 start https://dsadata.intel.com/installer
 start https://apps.qoo-app.com/en/dl?r=https://www.qoo-app.com/en
-start https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html
 timeout /t 10 /nobreak
 start https://jcc.qq.com/zlkdatasys/mct/d/play.shtml?device=android
 ```
