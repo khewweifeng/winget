@@ -13,6 +13,7 @@ https://github.com/microsoft/winget-cli/commit/ed545f996acd36e9b4b277949abc7f62e
 2. https://winstall.app/
 
 - Make your own list of collection from the websites above
+- https://github.com/marticliment/UnigetUI
 
 # Report winget issues
 - https://github.com/microsoft/winget-pkgs/issues
