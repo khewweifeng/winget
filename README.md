@@ -9,9 +9,8 @@ https://github.com/microsoft/winget-cli/commit/ed545f996acd36e9b4b277949abc7f62e
 3. Paste into powershell and hit enter key
 
 # Build your own list
-1. https://winget.run/
+1. https://packagepicker.co/pm/winget
 2. https://winstall.app/
-3. https://packagepicker.co/pm/winget
 
 - Make your own list of collection from the websites above
 - https://github.com/marticliment/UnigetUI
