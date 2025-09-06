@@ -3,7 +3,7 @@ winget remove 9P6RC76MSMMJ && winget remove 9NBLGGH5R558 && winget remove XPFFZH
 ```
 ```
 start https://www.mumuplayer.com/update/
-start https://www.grc.com/incontrol.htm
+start https://www.grc.com/files/incontrol.exe
 ```
 
 
