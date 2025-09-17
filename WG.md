@@ -1,6 +1,8 @@
 ```
 winget remove 9P6RC76MSMMJ && winget remove 9NBLGGH5R558 && winget remove XPFFZHVGQWWLHB && winget remove 9NCBCSZSJRSB && winget remove 9WZDNCRFJ3P2 && winget remove XPFFZHVGQWWLHB && winget remove 9WZDNCRFHVJL && winget remove 9P1J8S7CCWWT && winget remove cortana && winget remove 9WZDNCRD29V9 && winget remove 9NHT9RB2F4HD && winget remove 9P1J8S7CCWWT && winget remove 9WZDNCRD29V9 && winget remove 9PDJDJS743XF
 ```
+
+```
 start https://www.mumuplayer.com/update/
 start https://www.grc.com/files/incontrol.exe
 start https://apps.qoo-app.com/en/dl?r=https://www.qoo-app.com/en
