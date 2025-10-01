@@ -8,11 +8,11 @@ https://github.com/microsoft/winget-cli/commit/ed545f996acd36e9b4b277949abc7f62e
 2. Copy winget commands
 3. Paste into powershell and hit enter key
 
-# Build your own list
-1. https://packagepicker.co/pm/winget
-2. https://winstall.app/
+# Build your own list - Make your own list of collection from the websites above
+- https://packagepicker.co/pm/winget
+- https://winstall.app/
 
-- Make your own list of collection from the websites above
+# GUI software
 - https://github.com/marticliment/UnigetUI
 
 # Report winget issues
