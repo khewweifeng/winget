@@ -10,6 +10,8 @@ timeout /t 10 /nobreak
 start https://jcc.qq.com/zlkdatasys/mct/d/play.shtml?device=android
 ```
 
+# [GMKTEC K12 (LAST UPDATE 2025 AUG 11)](https://drive.google.com/drive/u/2/folders/1VJiwl6TlvhXRkYAaB1jRMide6M0Vt4to?spm=..page_2054333.page_detail_1.1)
+
 # SNAPPY DRIVER INSTALLER ORIGIN (WINGET PATH)
 ```
 C:\Users\%USERNAME%\AppData\Local\Microsoft\WinGet\Packages
