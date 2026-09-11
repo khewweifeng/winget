@@ -1,4 +1,4 @@
 @echo off
-wt ssh pi@raspberrypi.local
+wt ssh pi@pi.local
 @echo raspberrypi.local| clip
 
